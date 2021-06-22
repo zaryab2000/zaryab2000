@@ -19,10 +19,6 @@
 
 - ⚡ Fun fact **Smart Contracts lies at the HEART of ETHERUM and SECURITY lies at the HEART of SMART CONTRACTS.. In Simpler Terms, I WORK AT THE THE HEARTS OF HEART OF ETHEREUM.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zaryab84339098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaryab84339098" height="30" width="40" /></a>
