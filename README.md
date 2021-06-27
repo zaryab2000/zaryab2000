@@ -1,6 +1,10 @@
 <h1 align="center">Hey There 👋, I'm Zaryab</h1>
-<h3 align="center">Proficient Smart Contract Engineer, Security Auditor and a Blockchain Technical Writer with a vision to Decentralize and secure the traditional WEB with Blockchain.</h3>
+<h3 align="center">Proficient Smart Contract Engineer and a Security Auditor.<br>
 
+<h5 align="center">⚡ Fun fact:<br>
+  <br>Smart Contracts lies at the HEART of ETHERUM ...<br>
+  &    SECURITY lies at the HEART of SMART CONTRACTS...<br></h5>
+<h4 align="center">  Well, <strong>I WORK at the HEARTS of HEART of ETHEREUM.</strong></h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaryab2000&label=Profile%20views&color=0e75b6&style=flat" alt="zaryab2000" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zaryab84339098" target="blank"><img src="https://img.shields.io/twitter/follow/zaryab84339098?logo=twitter&style=for-the-badge" alt="zaryab84339098" /></a> </p>
@@ -17,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zaryab-afser-97085b157/](https://www.linkedin.com/in/zaryab-afser-97085b157/)
 
-- ⚡ Fun fact **Smart Contracts lies at the HEART of ETHERUM and SECURITY lies at the HEART of SMART CONTRACTS.. In Simpler Terms, I WORK AT THE THE HEARTS OF HEART OF ETHEREUM.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
