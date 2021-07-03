@@ -1,6 +1,5 @@
-<h1 align="center">Hey There 👋, I'm Zaryab</h1>
-<h3 align="center">Proficient Smart Contract Engineer and a Security Auditor.<br>
-
+<h1 align="center">Hey There 👋, I'm ZARYAB</h1>
+<img src="https://i.imgur.com/Spsx32A.png" />
 <h5 align="center">⚡ Fun fact:<br>
   <br>Smart Contracts lies at the HEART of ETHERUM ...<br>
   &    SECURITY lies at the HEART of SMART CONTRACTS...<br></h5>
