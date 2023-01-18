@@ -12,14 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zaryab2000](https://github.com/zaryab2000)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@zaryabafser2000) and Quite a LOT on my [Linkedin](https://www.linkedin.com/in/zaryab-afser-97085b157/)
+- 📝 Subscibe to my newsletter 👉[Decipher with Zaryab](https://www.zaryabs.com/)
 
 - 💬 Ask me anything about **SMART CONTRACTS. I will either answer your question or learn together with you**
 
-- 📫 How to reach me **zaryabafser2000@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/zaryab-afser-97085b157/](https://www.linkedin.com/in/zaryab-afser-97085b157/)
-
+- 📫 Connect with me on [Twitter](https://twitter.com/zaryab_eth)
 
 
 <h3 align="left">Connect with me:</h3>
