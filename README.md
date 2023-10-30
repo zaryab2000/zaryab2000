@@ -1,7 +1,7 @@
 <h1 align="center">Hey There 👋, I'm ZARYAB</h1>
 
-![](https://hackmd.io/_uploads/HkRZbdpz6.png)
 
+![linkedinCover_new](https://github.com/zaryab2000/zaryab2000/assets/42082608/f4366f32-9868-4019-bbb0-2e06ca3ca973)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaryab2000&label=Profile%20views&color=0e75b6&style=flat" alt="zaryab2000" /> </p>
