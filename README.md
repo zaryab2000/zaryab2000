@@ -8,15 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/zaryab_eth" target="blank"><img src="https://img.shields.io/twitter/follow/zaryab_eth?logo=twitter&style=for-the-badge" alt="zaryab_eth" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Contract Development and Security, Mostly on ETHEREUM BLOCKCHAIN but also on others**
+- 👨‍💻 I **build** Smart Contracts
+- 👨‍💻 I **audit(security research)** Smart Contracts
+- 👨‍💻 I **Write** about Web3, Smart Smart Contracts
 
-- 👨‍💻 All of my projects are available at [https://github.com/zaryab2000](https://github.com/zaryab2000)
 
-- 📝 Subscibe to my newsletter 👉[Decipher with Zaryab](https://www.zaryabs.com/)
+### My Work (so far):
+- 📝 Projects I have built 👉 [Github Repositories](https://github.com/zaryab2000?tab=repositories)
 
-- 💬 Ask me anything about **SMART CONTRACTS. I will either answer your question or learn together with you**
+- 📝 Publically available Smart Contract Security Audit  Reports 👉 [Audit Reports Repository](https://github.com/zaryab2000/Smart-Contracts_Audit_Reports)
 
-- 📫 Connect with me on [Twitter](https://twitter.com/zaryab_eth)
+- 📝 All my Write-Ups 👉 [Decipher with Zaryab](https://www.zaryabs.com/)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -26,14 +28,14 @@
 <a href="https://www.zaryabs.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaryabafser2000" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/zaryab2000"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zaryabafser2000@okaxis" /></a></p><br><br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaryab2000&show_icons=true&locale=en&layout=compact" alt="zaryab2000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaryab2000&show_icons=true&locale=en" alt="zaryab2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab2000&" alt="zaryab2000" /></p>
+
+
+<h3 align="left">Like my work, You can Support it too 👇:</h3>
+
+If you like my work, write-ups and wish to suppoort me in any way, You can donate me my ETHEREUM Address below:
+- My ETHEREUM Address: **0x289AA17875D1Adbe3Dc66d7658218D14258D81f2**
