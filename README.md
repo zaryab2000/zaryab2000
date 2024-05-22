@@ -37,5 +37,5 @@
 
 <h3 align="left">Like my work, You can Support it too 👇:</h3>
 
-If you like my work, write-ups and wish to suppoort me in any way, You can donate me my ETHEREUM Address below:
+If you like my work, write-ups and wish to suppoort me in any way, feel free to donate in my ETHEREUM Address below:
 - My ETHEREUM Address: **0x289AA17875D1Adbe3Dc66d7658218D14258D81f2**
