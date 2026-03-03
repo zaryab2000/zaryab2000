@@ -7,8 +7,9 @@
 <p align="left"> <a href="https://twitter.com/zaryab_eth" target="blank"><img src="https://img.shields.io/twitter/follow/zaryab_eth?logo=twitter&style=for-the-badge" alt="zaryab_eth" /></a> </p>
 
 - 👨‍💻 I **build** Smart Contracts
-- 👨‍💻 I **audit(security research)** Smart Contracts
-- 👨‍💻 I **Write** about Web3, Smart Smart Contracts
+- 👨‍💻 I **security review** Smart Contracts - (vibe-code clean up.)
+- 👨‍💻 I orchestrate a team of AI agents for E2E smart contract workflows
+- 👨‍💻 I **Write** about Web3, Smart Smart Contracts and more.
 
 
 ### My Work (so far):
@@ -16,7 +17,7 @@
 
 - 📝 Publically available Smart Contract Security Audit  Reports 👉 [Audit Reports Repository](https://github.com/zaryab2000/Smart-Contracts_Audit_Reports)
 
-- 📝 All my Write-Ups 👉 [Decipher with Zaryab](https://www.zaryabs.com/)
+- 📝 All my Write-Ups 👉 [Decipher Club Publication](https://www.decipherclub.com/)
 
 
 <h3 align="left">Connect with me:</h3>
