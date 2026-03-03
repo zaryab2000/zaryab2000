@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/zaryab_eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaryab_eth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zaryab-afser-97085b157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaryab-afser-97085b157/" height="30" width="40" /></a>
-<a href="https://www.zaryabs.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaryabafser2000" height="30" width="40" /></a>
+<a href="https://www.decipherclub.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaryabafser2000" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaryab2000&show_icons=true&locale=en&layout=compact" alt="zaryab2000" /></p>
