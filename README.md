@@ -27,10 +27,6 @@
 <a href="https://www.decipherclub.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaryabafser2000" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaryab2000&show_icons=true&locale=en&layout=compact" alt="zaryab2000" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaryab2000&show_icons=true&locale=en" alt="zaryab2000" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaryab2000&" alt="zaryab2000" /></p>
 
 
